@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://mapgears.github.io/scribeui-site/blog/2013/06/10/start/</loc>
+        <loc>http://mapgears.github.io/scribeui/blog/2013/06/10/start/</loc>
         <lastmod>2013-06-13T12:55:22-04:00</lastmod>
     </url>
     <url>
-        <loc>http://mapgears.github.io/scribeui-site/blog/2013/06/11/mockups/</loc>
+        <loc>http://mapgears.github.io/scribeui/blog/2013/06/11/mockups/</loc>
         <lastmod>2013-06-13T10:39:59-04:00</lastmod>
     </url>
     <url>
-        <loc>http://mapgears.github.io/scribeui-site/blog/2013/07/22/first-release/</loc>
+        <loc>http://mapgears.github.io/scribeui/blog/2013/07/22/first-release/</loc>
         <lastmod>2013-07-24T10:18:18-04:00</lastmod>
     </url>
     <url>
-        <loc>http://mapgears.github.io/scribeui-site/about/</loc>
+        <loc>http://mapgears.github.io/scribeui/about/</loc>
         <lastmod>2013-06-13T11:36:33-04:00</lastmod>
     </url>
     <url>
-        <loc>http://mapgears.github.io/scribeui-site/</loc>
+        <loc>http://mapgears.github.io/scribeui/</loc>
         <lastmod>2013-07-24T10:18:18-04:00</lastmod>
     </url>
     <url>
-        <loc>http://mapgears.github.io/scribeui-site/robots.txt</loc>
+        <loc>http://mapgears.github.io/scribeui/robots.txt</loc>
         <lastmod>2013-06-11T11:47:55-04:00</lastmod>
     </url>
     <url>
-        <loc>http://mapgears.github.io/scribeui-site/blog/archives/</loc>
+        <loc>http://mapgears.github.io/scribeui/blog/archives/</loc>
         <lastmod>2013-07-24T10:18:18-04:00</lastmod>
     </url>
 </urlset>

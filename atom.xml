@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Scribe UI]]></title>
-  <link href="http://mapgears.github.io/scribeui-site/atom.xml" rel="self"/>
-  <link href="http://mapgears.github.io/scribeui-site/"/>
+  <link href="http://mapgears.github.io/scribeui/atom.xml" rel="self"/>
+  <link href="http://mapgears.github.io/scribeui/"/>
   <updated>2013-07-24T10:18:19-04:00</updated>
-  <id>http://mapgears.github.io/scribeui-site/</id>
+  <id>http://mapgears.github.io/scribeui/</id>
   <author>
     <name><![CDATA[Jessica Lapointe]]></name>
-    
+
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
+
   <entry>
     <title type="html"><![CDATA[First ScribeUI 0.1 Release]]></title>
-    <link href="http://mapgears.github.io/scribeui-site/blog/2013/07/22/first-release/"/>
+    <link href="http://mapgears.github.io/scribeui/blog/2013/07/22/first-release/"/>
     <updated>2013-07-22T11:29:00-04:00</updated>
-    <id>http://mapgears.github.io/scribeui-site/blog/2013/07/22/first-release</id>
+    <id>http://mapgears.github.io/scribeui/blog/2013/07/22/first-release</id>
     <content type="html"><![CDATA[<p>ScribeUI is a tool meant to help the editing and management of mapfiles, supporting <a href="http://www.mapgears.com/en/blog/archive/2013-03-12-scribe">Scribe</a> and Standard mapfile syntax, and <a href="https://github.com/mapserver/basemaps">basemaps</a> in the near future. I am currently developping this tool as a <a href="http://www.google-melange.com/gsoc/homepage/google/gsoc2013">Google Summer of Code</a> project. In the last few weeks, I worked on the GUI of ScribeUI, trying to make it as good and smooth as possible, and it is now ready to test and try out by the community!</p>
 
 <p>Please keep in mind that this is far for complete, but we felt that it was important to release early, as this allows to gather opinions on what the users want and need. Any feedback is welcome, should it be new feature ideas, general comments or bug reports.</p>
@@ -66,27 +66,27 @@
 <p>Thanks a lot!</p>
 ]]></content>
   </entry>
-  
+
   <entry>
     <title type="html"><![CDATA[Mockups]]></title>
-    <link href="http://mapgears.github.io/scribeui-site/blog/2013/06/11/mockups/"/>
+    <link href="http://mapgears.github.io/scribeui/blog/2013/06/11/mockups/"/>
     <updated>2013-06-11T13:46:00-04:00</updated>
-    <id>http://mapgears.github.io/scribeui-site/blog/2013/06/11/mockups</id>
+    <id>http://mapgears.github.io/scribeui/blog/2013/06/11/mockups</id>
     <content type="html"><![CDATA[<h2>First Page</h2>
 
-<p><a href="http://mapgears.github.io/scribeui-site/images/FirstOpening.png" title=""><img src="http://mapgears.github.io/scribeui-site/images/FirstOpening.png" /></a></p>
+<p><a href="http://mapgears.github.io/scribeui/images/FirstOpening.png" title=""><img src="http://mapgears.github.io/scribeui/images/FirstOpening.png" /></a></p>
 
 <p>When the app is first opened, the app asks for a workspace to work on. The workspaces allow ScribeUI to be cloud-based, with each user or project having its own workspace.</p>
 
 <h2>Manager</h2>
 
-<p><a href="http://mapgears.github.io/scribeui-site/images/Manager.png" title=""><img src="http://mapgears.github.io/scribeui-site/images/Manager.png" /></a></p>
+<p><a href="http://mapgears.github.io/scribeui/images/Manager.png" title=""><img src="http://mapgears.github.io/scribeui/images/Manager.png" /></a></p>
 
 <p>The manager lists the maps withing the project. The icons will be snapshots of the map. The toolbar at the bottom of the map is accessible from anywhere. The quickview is very useful, as it allows the user to save and quickly get back to certain map extents.</p>
 
 <h2>Editor</h2>
 
-<p><a href="http://mapgears.github.io/scribeui-site/images/Editor.png" title=""><img src="http://mapgears.github.io/scribeui-site/images/Editor.png" /></a>
+<p><a href="http://mapgears.github.io/scribeui/images/Editor.png" title=""><img src="http://mapgears.github.io/scribeui/images/Editor.png" /></a>
 This is the most important part of the app. The toolbar on top of the text box contains most tools for the mapfile edition.</p>
 
 <ul>
@@ -101,19 +101,19 @@ This is the most important part of the app. The toolbar on top of the text box c
 
 <h2>Editable Panel</h2>
 
-<p><a href="http://mapgears.github.io/scribeui-site/images/Editor_Variables.png" title=""><img src="http://mapgears.github.io/scribeui-site/images/Editor_Variables.png" /></a></p>
+<p><a href="http://mapgears.github.io/scribeui/images/Editor_Variables.png" title=""><img src="http://mapgears.github.io/scribeui/images/Editor_Variables.png" /></a></p>
 
 <p>When a user clicks on one of the settings option, or on the variable button, a panel opens that allows the edition of that particular setting.</p>
 
 <p>A big thanks to the people from <a href="http://www.balsamiq.com/products/mockups">Balsamiq</a> who gave a licence for their mockups software to this GSoC project !</p>
 ]]></content>
   </entry>
-  
+
   <entry>
     <title type="html"><![CDATA[Start of the project]]></title>
-    <link href="http://mapgears.github.io/scribeui-site/blog/2013/06/10/start/"/>
+    <link href="http://mapgears.github.io/scribeui/blog/2013/06/10/start/"/>
     <updated>2013-06-10T11:29:00-04:00</updated>
-    <id>http://mapgears.github.io/scribeui-site/blog/2013/06/10/start</id>
+    <id>http://mapgears.github.io/scribeui/blog/2013/06/10/start</id>
     <content type="html"><![CDATA[<p>ScribeUI was accepted as a Google Summer of Code 2013 entry with OSGeo!</p>
 
 <p>The beginning of the project so far has been all about preparation. What new functionnalities do we want ? What current functionnality needs to get better ? What is good about the current application, and what needs to be redone ? What are the bugs, and how important are they ?</p>
@@ -129,5 +129,5 @@ This is the most important part of the app. The toolbar on top of the text box c
 <p>Once all of this is done, the app can be used and tested by anyone interested. Some functionnalities will be missing, but the core will be there.</p>
 ]]></content>
   </entry>
-  
+
 </feed>
